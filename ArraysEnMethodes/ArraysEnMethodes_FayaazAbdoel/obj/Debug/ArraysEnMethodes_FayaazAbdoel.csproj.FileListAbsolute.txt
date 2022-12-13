@@ -1,0 +1,11 @@
+C:\Users\fayaa\source\repos\ArraysEnMethodes_FayaazAbdoel\ArraysEnMethodes_FayaazAbdoel\bin\Debug\ArraysEnMethodes_FayaazAbdoel.exe.config
+C:\Users\fayaa\source\repos\ArraysEnMethodes_FayaazAbdoel\ArraysEnMethodes_FayaazAbdoel\bin\Debug\ArraysEnMethodes_FayaazAbdoel.exe
+C:\Users\fayaa\source\repos\ArraysEnMethodes_FayaazAbdoel\ArraysEnMethodes_FayaazAbdoel\bin\Debug\ArraysEnMethodes_FayaazAbdoel.pdb
+C:\Users\fayaa\source\repos\ArraysEnMethodes_FayaazAbdoel\ArraysEnMethodes_FayaazAbdoel\obj\Debug\ArraysEnMethodes_FayaazAbdoel.csproj.AssemblyReference.cache
+C:\Users\fayaa\source\repos\ArraysEnMethodes_FayaazAbdoel\ArraysEnMethodes_FayaazAbdoel\obj\Debug\ArraysEnMethodes_FayaazAbdoel.csproj.SuggestedBindingRedirects.cache
+C:\Users\fayaa\source\repos\ArraysEnMethodes_FayaazAbdoel\ArraysEnMethodes_FayaazAbdoel\obj\Debug\ArraysEnMethodes_FayaazAbdoel.Form1.resources
+C:\Users\fayaa\source\repos\ArraysEnMethodes_FayaazAbdoel\ArraysEnMethodes_FayaazAbdoel\obj\Debug\ArraysEnMethodes_FayaazAbdoel.Properties.Resources.resources
+C:\Users\fayaa\source\repos\ArraysEnMethodes_FayaazAbdoel\ArraysEnMethodes_FayaazAbdoel\obj\Debug\ArraysEnMethodes_FayaazAbdoel.csproj.GenerateResource.cache
+C:\Users\fayaa\source\repos\ArraysEnMethodes_FayaazAbdoel\ArraysEnMethodes_FayaazAbdoel\obj\Debug\ArraysEnMethodes_FayaazAbdoel.csproj.CoreCompileInputs.cache
+C:\Users\fayaa\source\repos\ArraysEnMethodes_FayaazAbdoel\ArraysEnMethodes_FayaazAbdoel\obj\Debug\ArraysEnMethodes_FayaazAbdoel.exe
+C:\Users\fayaa\source\repos\ArraysEnMethodes_FayaazAbdoel\ArraysEnMethodes_FayaazAbdoel\obj\Debug\ArraysEnMethodes_FayaazAbdoel.pdb
