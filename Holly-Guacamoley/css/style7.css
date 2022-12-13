@@ -1,0 +1,132 @@
+@font-face {
+  font-family: 'legendary_hollywoodregular';
+  src: url('home.php') format('woff2'),
+       url('legendary_hollywood-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+body{
+  margin: 0;
+  font-size: 28px;
+  font-family: Legendary Hollywood;
+  background-color: black;
+}
+
+banner{
+  position: relative;
+  width: 100%;
+  height: 25%;
+  background-color: black;
+  z-index: 2;
+}
+
+img{
+  position: relative;
+  left: 40%;
+  height: 100%;
+}
+
+
+.navbar{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: #b40c15;
+  padding: 50px;
+  font-size: 20px;
+  z-index: 2;
+  box-shadow: 10px 1px 10px black;
+  text-align: center;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #ee8133;
+  color: black;
+}
+
+.navbar a.active {
+  background-color: #7e080e;
+  color: white;
+}
+
+.container1{
+  position: relative;
+  height: 1100px;
+  width: 95%;
+  top: -40px;
+  left: 2%;
+  background-color: white;
+
+}
+
+.container2{
+  position: relative;
+  height: 1100px;
+  width: 95%;
+  top: -40px;
+  left: 2%;
+  background-color: white;
+
+}
+
+.txtbox1{
+  position: relative;
+  top: 1%;
+  left: 0%;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: white;
+  font-family:;
+}
+
+form{
+  position: relative;
+  top: 5%;
+  left: 33%;
+  width: 30%;
+  border: 2px solid #ee8133;
+  border-radius: 5px;
+  box-shadow: 2px 2px 15px #ee8133;
+  text-align: center;
+  background-color: white;
+}
+#feedback{
+  position: relative;
+}
+#knop{
+  position: relative;
+  bottom: 24%;
+}
+
+.footer {
+  background-color: #ee8133;
+  color: black;
+  position: -webkit-sticky;
+  position: sticky;
+  padding: 20px;
+  font-size: 15px;
+  z-index: 2;
+  box-shadow: inset 0 0 20px black;
+  text-decoration: none;
+}
+
+.footermid{
+  text-align: left;
+  position:absolute;
+  top: 45%;
+  left: 15%;
+}
+
